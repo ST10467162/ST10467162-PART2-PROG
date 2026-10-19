@@ -1,5 +1,5 @@
 # ST10467162-PART2-PROG
-QuickChat
+QuickChat Part 2
 
 A console-based chat application written in Java as part of my PoE (Part 2: Sending Messages). It builds on my Part 1 registration and login system and adds sending, discarding and storing messages.
 
